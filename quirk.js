@@ -2,7 +2,7 @@ const blessed = require('blessed')
 
 var screen = blessed.screen({ smartCSR: true })
 var program = screen.program
-screen.title = 'quirk editor'
+screen.title = 'Quirk'
 program.forceEncoding = true
 program.alternateBuffer()
 program.hideCursor()
