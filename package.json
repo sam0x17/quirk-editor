@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sam0x17/quirk-editor/issues"
   },
-  "homepage": "https://github.com/sam0x17/quirk-editor#readme"
+  "homepage": "https://github.com/sam0x17/quirk-editor#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
 }
