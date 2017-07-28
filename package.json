@@ -1,0 +1,24 @@
+{
+  "name": "quirk-editor",
+  "version": "0.1.0",
+  "description": "a quirky, terminal-based, atom-like IDE and text editor",
+  "main": "quirk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam0x17/quirk-editor.git"
+  },
+  "keywords": [
+    "ide",
+    "terminal-based",
+    "text-editor"
+  ],
+  "author": "Sam Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sam0x17/quirk-editor/issues"
+  },
+  "homepage": "https://github.com/sam0x17/quirk-editor#readme"
+}
